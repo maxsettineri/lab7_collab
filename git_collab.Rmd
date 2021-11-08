@@ -1,0 +1,12 @@
+---
+title: "Git Collaboration to Main"
+author: "Max Settineri"
+date: "11/8/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Waddup squad
